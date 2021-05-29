@@ -78,7 +78,7 @@
     "draft-js-plugins-editor": "2.1.1",
     "express": "^4.16.4",
     "glob": "^7.1.2",
-    "graphql": "14.5.5",
+    "graphql": "14.7.0",
     "graphql-request": "^1.6.0",
     "graphql-tag": "^2.6.1",
     "graphql-voyager": "^1.0.0-rc.31",

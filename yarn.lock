@@ -5725,9 +5725,9 @@ graphql-voyager@^1.0.0-rc.31:
     svg-pan-zoom "^3.6.0"
     viz.js "2.1.2"
 
-graphql@14.5.5:
-  version "14.5.5"
-  resolved "https://registry.npm.taobao.org/graphql/download/graphql-14.5.5.tgz?cache=0&sync_timestamp=1585840662829&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fgraphql%2Fdownload%2Fgraphql-14.5.5.tgz#7ec9d4f79f4d3c95e64c7ff6727bfe7068049d43"
+graphql@14.7.0:
+  version "14.7.0"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-14.7.0.tgz#7fa79a80a69be4a31c27dda824dc04dac2035a72"
   dependencies:
     iterall "^1.2.2"
 
