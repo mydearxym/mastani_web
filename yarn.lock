@@ -9466,11 +9466,9 @@ react-masonry-css@^1.0.14:
   version "1.0.14"
   resolved "https://registry.npm.taobao.org/react-masonry-css/download/react-masonry-css-1.0.14.tgz#2ac1ca7bb2c7e96826f7da3accc9e95ae12b2f65"
 
-react-pin-field@1.0.6:
-  version "1.0.6"
-  resolved "https://registry.nlark.com/react-pin-field/download/react-pin-field-1.0.6.tgz#ef7f4b00c8261f3abd45533f586f88a9204303ec"
-  dependencies:
-    classnames "^2.2.6"
+react-pin-field@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-pin-field/-/react-pin-field-1.1.0.tgz#156da523d0c0ac0287214851f4004b0c230d89e0"
 
 react-refresh@0.8.3:
   version "0.8.3"
