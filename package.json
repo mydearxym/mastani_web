@@ -130,7 +130,7 @@
     "remarkable-mentions": "^0.1.0",
     "resize-observer-polyfill": "^1.5.1",
     "response-time": "^2.3.2",
-    "rxjs": "6.2.2",
+    "rxjs": "7.1.0",
     "scroll-into-view-if-needed": "1.5.0",
     "sentry-testkit": "^2.1.0",
     "store": "^2.0.12",
