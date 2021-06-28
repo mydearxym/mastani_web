@@ -2776,16 +2776,16 @@ cache-base@^1.0.1:
     union-value "^1.0.0"
     unset-value "^1.0.0"
 
-cacheable-response@^2.0.9:
-  version "2.0.9"
-  resolved "https://registry.npm.taobao.org/cacheable-response/download/cacheable-response-2.0.9.tgz#b18311119088f3b3cda661ef1beda6c459bf8454"
+cacheable-response@^2.1.12:
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/cacheable-response/-/cacheable-response-2.1.12.tgz#e23766d4be9e19ca1d4b55e0b0be96f06549aeba"
   dependencies:
-    compress-brotli "~1.2.1"
+    compress-brotli "~1.3.0"
     debug-logfmt "~1.0.4"
     etag "~1.8.1"
-    keyv "~4.0.0"
-    normalize-url "~5.0.0"
-    pretty-ms "~7.0.0"
+    keyv "~4.0.3"
+    normalize-url "~6.0.0"
+    pretty-ms "~7.0.1"
 
 cachedir@2.1.0:
   version "2.1.0"
@@ -3298,9 +3298,9 @@ component-emitter@^1.2.1:
   version "1.3.0"
   resolved "https://registry.npm.taobao.org/component-emitter/download/component-emitter-1.3.0.tgz#16e4070fba8ae29b679f2215853ee181ab2eabc0"
 
-compress-brotli@~1.2.1:
-  version "1.2.2"
-  resolved "https://registry.npm.taobao.org/compress-brotli/download/compress-brotli-1.2.2.tgz#69770c223440f32e839ab774e5a87252d24c1a6c"
+compress-brotli@~1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/compress-brotli/-/compress-brotli-1.3.0.tgz#aaa6e82746d6bbf10df56dfb7de440a3cbd5b67a"
   dependencies:
     json-buffer "~3.0.1"
 
@@ -7589,9 +7589,9 @@ jsx-ast-utils@^2.2.1, jsx-ast-utils@^2.2.3:
     array-includes "^3.1.2"
     object.assign "^4.1.2"
 
-keyv@~4.0.0:
-  version "4.0.1"
-  resolved "https://registry.npm.taobao.org/keyv/download/keyv-4.0.1.tgz#9fe703cb4a94d6d11729d320af033307efd02ee6"
+keyv@~4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.0.3.tgz#4f3aa98de254803cafcd2896734108daa35e4254"
   dependencies:
     json-buffer "3.0.1"
 
@@ -8715,9 +8715,9 @@ normalize-scroll-left@^0.1.2:
   version "0.1.2"
   resolved "https://registry.npm.taobao.org/normalize-scroll-left/download/normalize-scroll-left-0.1.2.tgz#6b79691ba79eb5fb107fa5edfbdc06b55caee2aa"
 
-normalize-url@~5.0.0:
-  version "5.0.0"
-  resolved "https://registry.npm.taobao.org/normalize-url/download/normalize-url-5.0.0.tgz#f46c9dc20670495e4e18fbd1b4396e41d199f63c"
+normalize-url@~6.0.0:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-6.0.1.tgz#a4f27f58cf8c7b287b440b8a8201f42d0b00d256"
 
 npm-run-all@^4.1.1:
   version "4.1.5"
@@ -9465,9 +9465,9 @@ pretty-format@^26.2.0:
     ansi-styles "^4.0.0"
     react-is "^16.12.0"
 
-pretty-ms@~7.0.0:
-  version "7.0.0"
-  resolved "https://registry.npm.taobao.org/pretty-ms/download/pretty-ms-7.0.0.tgz#45781273110caf35f55cab21a8a9bd403a233dc0"
+pretty-ms@~7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/pretty-ms/-/pretty-ms-7.0.1.tgz#7d903eaab281f7d8e03c66f867e239dc32fb73e8"
   dependencies:
     parse-ms "^2.1.0"
 
