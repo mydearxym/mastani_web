@@ -8580,9 +8580,9 @@ next@11.0.1:
     vm-browserify "1.1.2"
     watchpack "2.1.1"
 
-nextjs-progressbar@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/nextjs-progressbar/-/nextjs-progressbar-0.0.6.tgz#d1841df42f2342807dc6f7ad1034ddb8ec8541d4"
+nextjs-progressbar@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/nextjs-progressbar/-/nextjs-progressbar-0.0.11.tgz#d8340e27f7f8cf8bca4b3ec187ebea40ea54297e"
   dependencies:
     nprogress "^0.2.0"
 
